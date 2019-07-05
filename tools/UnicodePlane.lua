@@ -13,6 +13,8 @@ local bit = require("bit")
 local lshift, rshift = bit.lshift, bit.rshift
 local bor, band = bit.bor, bit.band
 
+local planes = require("tools.planes")
+
 -- a little bit of an object to tie some functionality
 -- to a unicode plane.
 local UnicodePlane = {}
@@ -34,14 +36,14 @@ end
 
 -- A little database of current planes
 local knownPlanes = {
-    UnicodePlane {ordinal = 0, plane = 0, low=0, high=0xffff, abbr='bmp', description = "Basic Multilingual Plane"};
-    UnicodePlane {ordinal = 1, plane = 1, low=0x10000, high=0x1ffff, abbr='smp', description = "Supplementary Multilingual Plane"};
-    UnicodePlane {ordinal = 2, plane = 2, low=0x20000, high=0x2ffff, abbr='sip', description = "Supplementary Ideographic Plane"};
-    UnicodePlane {ordinal = 3, plane = 3, low=0x30000, high=0x3ffff, abbr='tip', description = "Tertiary Ideographic Plane", unassigned=true};
-    UnicodePlane {ordinal = 4, low=0x40000, high=0xdffff,  description = "planes 3 - 13", unassigned=true};
-    UnicodePlane {ordinal = 5, plane = 14, low=0xE0000, high=0xEffff, abbr='ssp', description = "Supplementary special-purpose Plane"};
-    UnicodePlane {ordinal = 6, plane = 15, low=0xF0000, high=0xFffff, abbr='spuaa', description = "Supplementary private use area A"};
-    UnicodePlane {ordinal = 7, plane = 16, low=0x100000, high=0x10ffff, abbr='spuab', description = "Supplementary private use area B"};
+    UnicodePlane ({ordinal = 0, planeNumber = 0, low=0, high=0xffff, abbr='bmp', description = "Basic Multilingual Plane"});
+    UnicodePlane ({ordinal = 1, planeNumber = 1, low=0x10000, high=0x1ffff, abbr='smp', description = "Supplementary Multilingual Plane"});
+    UnicodePlane ({ordinal = 2, planeNumber = 2, low=0x20000, high=0x2ffff, abbr='sip', description = "Supplementary Ideographic Plane"});
+    UnicodePlane ({ordinal = 3, planeNumber = 3, low=0x30000, high=0x3ffff, abbr='tip', description = "Tertiary Ideographic Plane"});
+    UnicodePlane ({ordinal = 4, low=0x40000, high=0xdffff,  description = "planes 3 - 13", unassigned=true});
+    UnicodePlane ({ordinal = 5, planeNumber = 14, low=0xE0000, high=0xEffff, abbr='ssp', description = "Supplementary special-purpose Plane"});
+    UnicodePlane ({ordinal = 6, planeNumber = 15, low=0xF0000, high=0xFffff, abbr='spuaa', description = "Supplementary private use area A"});
+    UnicodePlane ({ordinal = 7, planeNumber = 16, low=0x100000, high=0x10ffff, abbr='spuab', description = "Supplementary private use area B"});
 }
 
 --[[
@@ -51,14 +53,17 @@ local knownPlanes = {
         print(plane.abbr)
     end
 ]]
-function UnicodePlane.enumPlanes(self)
+function UnicodePlane.assignedPlanes(self)
+
     local function visitor()
-        for _, plane in ipairs(knownPlanes) do
-            coroutine.yield(plane)
+        for _, plane in ipairs(planes) do
+            if not plane.unassigned then
+                coroutine.yield(UnicodePlane(plane))
+            end
         end
     end
 
-    coroutine.wrap(visitor)
+    return coroutine.wrap(visitor)
 end
 
 -- Return the plane number for a codePoint
@@ -77,7 +82,7 @@ end
 -- and getting the plane number, then lookup the UnicodePlane
 -- object from there.  But, be wasteful for now
 function UnicodePlane.getPlane(self, codePoint)
-    for plane in self:enumPlanes() do
+    for plane in self:assignedPlanes() do
         if plane:contains(codePoint) then
             return plane;
         end
