@@ -1,0 +1,1456 @@
+Adlam = {totalCodePoints = 88, 
+    ranges = {
+        {low = 0x1e900, high = 0x1e94b};
+        {low = 0x1e950, high = 0x1e959};
+        {low = 0x1e95e, high = 0x1e95f};
+    };
+};
+Ahom = {totalCodePoints = 58, 
+    ranges = {
+        {low = 0x11700, high = 0x1171a};
+        {low = 0x1171d, high = 0x1172b};
+        {low = 0x11730, high = 0x1173f};
+    };
+};
+Anatolian = {totalCodePoints = 583, 
+    ranges = {
+        {low = 0x14400, high = 0x14646};
+    };
+};
+Arabic = {totalCodePoints = 1281, 
+    ranges = {
+        {low = 0x0600, high = 0x0604};
+        {low = 0x0606, high = 0x060b};
+        {low = 0x060d, high = 0x061a};
+        {low = 0x061c, high = 0x061c};
+        {low = 0x061e, high = 0x061e};
+        {low = 0x0620, high = 0x063f};
+        {low = 0x0641, high = 0x064a};
+        {low = 0x0656, high = 0x066f};
+        {low = 0x0671, high = 0x06dc};
+        {low = 0x06de, high = 0x06ff};
+        {low = 0x0750, high = 0x077f};
+        {low = 0x08a0, high = 0x08b4};
+        {low = 0x08b6, high = 0x08bd};
+        {low = 0x08d3, high = 0x08e1};
+        {low = 0x08e3, high = 0x08ff};
+        {low = 0xfb50, high = 0xfbc1};
+        {low = 0xfbd3, high = 0xfd3d};
+        {low = 0xfd50, high = 0xfd8f};
+        {low = 0xfd92, high = 0xfdc7};
+        {low = 0xfdf0, high = 0xfdfd};
+        {low = 0xfe70, high = 0xfe74};
+        {low = 0xfe76, high = 0xfefc};
+        {low = 0x10e60, high = 0x10e7e};
+        {low = 0x1ee00, high = 0x1ee03};
+        {low = 0x1ee05, high = 0x1ee1f};
+        {low = 0x1ee21, high = 0x1ee22};
+        {low = 0x1ee24, high = 0x1ee24};
+        {low = 0x1ee27, high = 0x1ee27};
+        {low = 0x1ee29, high = 0x1ee32};
+        {low = 0x1ee34, high = 0x1ee37};
+        {low = 0x1ee39, high = 0x1ee39};
+        {low = 0x1ee3b, high = 0x1ee3b};
+        {low = 0x1ee42, high = 0x1ee42};
+        {low = 0x1ee47, high = 0x1ee47};
+        {low = 0x1ee49, high = 0x1ee49};
+        {low = 0x1ee4b, high = 0x1ee4b};
+        {low = 0x1ee4d, high = 0x1ee4f};
+        {low = 0x1ee51, high = 0x1ee52};
+        {low = 0x1ee54, high = 0x1ee54};
+        {low = 0x1ee57, high = 0x1ee57};
+        {low = 0x1ee59, high = 0x1ee59};
+        {low = 0x1ee5b, high = 0x1ee5b};
+        {low = 0x1ee5d, high = 0x1ee5d};
+        {low = 0x1ee5f, high = 0x1ee5f};
+        {low = 0x1ee61, high = 0x1ee62};
+        {low = 0x1ee64, high = 0x1ee64};
+        {low = 0x1ee67, high = 0x1ee6a};
+        {low = 0x1ee6c, high = 0x1ee72};
+        {low = 0x1ee74, high = 0x1ee77};
+        {low = 0x1ee79, high = 0x1ee7c};
+        {low = 0x1ee7e, high = 0x1ee7e};
+        {low = 0x1ee80, high = 0x1ee89};
+        {low = 0x1ee8b, high = 0x1ee9b};
+        {low = 0x1eea1, high = 0x1eea3};
+        {low = 0x1eea5, high = 0x1eea9};
+        {low = 0x1eeab, high = 0x1eebb};
+        {low = 0x1eef0, high = 0x1eef1};
+    };
+};
+Armenian = {totalCodePoints = 95, 
+    ranges = {
+        {low = 0x0531, high = 0x0556};
+        {low = 0x0559, high = 0x0588};
+        {low = 0x058a, high = 0x058a};
+        {low = 0x058d, high = 0x058f};
+        {low = 0xfb13, high = 0xfb17};
+    };
+};
+Avestan = {totalCodePoints = 61, 
+    ranges = {
+        {low = 0x10b00, high = 0x10b35};
+        {low = 0x10b39, high = 0x10b3f};
+    };
+};
+Balinese = {totalCodePoints = 121, 
+    ranges = {
+        {low = 0x1b00, high = 0x1b4b};
+        {low = 0x1b50, high = 0x1b7c};
+    };
+};
+Bamum = {totalCodePoints = 657, 
+    ranges = {
+        {low = 0xa6a0, high = 0xa6f7};
+        {low = 0x16800, high = 0x16a38};
+    };
+};
+Bassa = {totalCodePoints = 36, 
+    ranges = {
+        {low = 0x16ad0, high = 0x16aed};
+        {low = 0x16af0, high = 0x16af5};
+    };
+};
+Batak = {totalCodePoints = 56, 
+    ranges = {
+        {low = 0x1bc0, high = 0x1bf3};
+        {low = 0x1bfc, high = 0x1bff};
+    };
+};
+Bengali = {totalCodePoints = 96, 
+    ranges = {
+        {low = 0x0980, high = 0x0983};
+        {low = 0x0985, high = 0x098c};
+        {low = 0x098f, high = 0x0990};
+        {low = 0x0993, high = 0x09a8};
+        {low = 0x09aa, high = 0x09b0};
+        {low = 0x09b2, high = 0x09b2};
+        {low = 0x09b6, high = 0x09b9};
+        {low = 0x09bc, high = 0x09c4};
+        {low = 0x09c7, high = 0x09c8};
+        {low = 0x09cb, high = 0x09ce};
+        {low = 0x09d7, high = 0x09d7};
+        {low = 0x09dc, high = 0x09dd};
+        {low = 0x09df, high = 0x09e3};
+        {low = 0x09e6, high = 0x09fe};
+    };
+};
+Bhaiksuki = {totalCodePoints = 97, 
+    ranges = {
+        {low = 0x11c00, high = 0x11c08};
+        {low = 0x11c0a, high = 0x11c36};
+        {low = 0x11c38, high = 0x11c45};
+        {low = 0x11c50, high = 0x11c6c};
+    };
+};
+Bopomofo = {totalCodePoints = 72, 
+    ranges = {
+        {low = 0x02ea, high = 0x02eb};
+        {low = 0x3105, high = 0x312f};
+        {low = 0x31a0, high = 0x31ba};
+    };
+};
+Brahmi = {totalCodePoints = 109, 
+    ranges = {
+        {low = 0x11000, high = 0x1104d};
+        {low = 0x11052, high = 0x1106f};
+        {low = 0x1107f, high = 0x1107f};
+    };
+};
+Braille = {totalCodePoints = 256, 
+    ranges = {
+        {low = 0x2800, high = 0x28ff};
+    };
+};
+Buginese = {totalCodePoints = 30, 
+    ranges = {
+        {low = 0x1a00, high = 0x1a1b};
+        {low = 0x1a1e, high = 0x1a1f};
+    };
+};
+Buhid = {totalCodePoints = 20, 
+    ranges = {
+        {low = 0x1740, high = 0x1753};
+    };
+};
+Canadian = {totalCodePoints = 710, 
+    ranges = {
+        {low = 0x1400, high = 0x167f};
+        {low = 0x18b0, high = 0x18f5};
+    };
+};
+Carian = {totalCodePoints = 49, 
+    ranges = {
+        {low = 0x102a0, high = 0x102d0};
+    };
+};
+Caucasian = {totalCodePoints = 53, 
+    ranges = {
+        {low = 0x10530, high = 0x10563};
+        {low = 0x1056f, high = 0x1056f};
+    };
+};
+Chakma = {totalCodePoints = 70, 
+    ranges = {
+        {low = 0x11100, high = 0x11134};
+        {low = 0x11136, high = 0x11146};
+    };
+};
+Cham = {totalCodePoints = 83, 
+    ranges = {
+        {low = 0xaa00, high = 0xaa36};
+        {low = 0xaa40, high = 0xaa4d};
+        {low = 0xaa50, high = 0xaa59};
+        {low = 0xaa5c, high = 0xaa5f};
+    };
+};
+Cherokee = {totalCodePoints = 172, 
+    ranges = {
+        {low = 0x13a0, high = 0x13f5};
+        {low = 0x13f8, high = 0x13fd};
+        {low = 0xab70, high = 0xabbf};
+    };
+};
+Common = {totalCodePoints = 7805, 
+    ranges = {
+        {low = 0x0000, high = 0x0040};
+        {low = 0x005b, high = 0x0060};
+        {low = 0x007b, high = 0x00a9};
+        {low = 0x00ab, high = 0x00b9};
+        {low = 0x00bb, high = 0x00bf};
+        {low = 0x00d7, high = 0x00d7};
+        {low = 0x00f7, high = 0x00f7};
+        {low = 0x02b9, high = 0x02df};
+        {low = 0x02e5, high = 0x02e9};
+        {low = 0x02ec, high = 0x02ff};
+        {low = 0x0374, high = 0x0374};
+        {low = 0x037e, high = 0x037e};
+        {low = 0x0385, high = 0x0385};
+        {low = 0x0387, high = 0x0387};
+        {low = 0x0589, high = 0x0589};
+        {low = 0x0605, high = 0x0605};
+        {low = 0x060c, high = 0x060c};
+        {low = 0x061b, high = 0x061b};
+        {low = 0x061f, high = 0x061f};
+        {low = 0x0640, high = 0x0640};
+        {low = 0x06dd, high = 0x06dd};
+        {low = 0x08e2, high = 0x08e2};
+        {low = 0x0964, high = 0x0965};
+        {low = 0x0e3f, high = 0x0e3f};
+        {low = 0x0fd5, high = 0x0fd8};
+        {low = 0x10fb, high = 0x10fb};
+        {low = 0x16eb, high = 0x16ed};
+        {low = 0x1735, high = 0x1736};
+        {low = 0x1802, high = 0x1803};
+        {low = 0x1805, high = 0x1805};
+        {low = 0x1cd3, high = 0x1cd3};
+        {low = 0x1ce1, high = 0x1ce1};
+        {low = 0x1ce9, high = 0x1cec};
+        {low = 0x1cee, high = 0x1cf3};
+        {low = 0x1cf5, high = 0x1cf7};
+        {low = 0x1cfa, high = 0x1cfa};
+        {low = 0x2000, high = 0x200b};
+        {low = 0x200e, high = 0x2064};
+        {low = 0x2066, high = 0x2070};
+        {low = 0x2074, high = 0x207e};
+        {low = 0x2080, high = 0x208e};
+        {low = 0x20a0, high = 0x20bf};
+        {low = 0x2100, high = 0x2125};
+        {low = 0x2127, high = 0x2129};
+        {low = 0x212c, high = 0x2131};
+        {low = 0x2133, high = 0x214d};
+        {low = 0x214f, high = 0x215f};
+        {low = 0x2189, high = 0x218b};
+        {low = 0x2190, high = 0x2426};
+        {low = 0x2440, high = 0x244a};
+        {low = 0x2460, high = 0x27ff};
+        {low = 0x2900, high = 0x2b73};
+        {low = 0x2b76, high = 0x2b95};
+        {low = 0x2b98, high = 0x2bff};
+        {low = 0x2e00, high = 0x2e4f};
+        {low = 0x2ff0, high = 0x2ffb};
+        {low = 0x3000, high = 0x3004};
+        {low = 0x3006, high = 0x3006};
+        {low = 0x3008, high = 0x3020};
+        {low = 0x3030, high = 0x3037};
+        {low = 0x303c, high = 0x303f};
+        {low = 0x309b, high = 0x309c};
+        {low = 0x30a0, high = 0x30a0};
+        {low = 0x30fb, high = 0x30fc};
+        {low = 0x3190, high = 0x319f};
+        {low = 0x31c0, high = 0x31e3};
+        {low = 0x3220, high = 0x325f};
+        {low = 0x327f, high = 0x32cf};
+        {low = 0x32ff, high = 0x32ff};
+        {low = 0x3358, high = 0x33ff};
+        {low = 0x4dc0, high = 0x4dff};
+        {low = 0xa700, high = 0xa721};
+        {low = 0xa788, high = 0xa78a};
+        {low = 0xa830, high = 0xa839};
+        {low = 0xa92e, high = 0xa92e};
+        {low = 0xa9cf, high = 0xa9cf};
+        {low = 0xab5b, high = 0xab5b};
+        {low = 0xfd3e, high = 0xfd3f};
+        {low = 0xfe10, high = 0xfe19};
+        {low = 0xfe30, high = 0xfe52};
+        {low = 0xfe54, high = 0xfe66};
+        {low = 0xfe68, high = 0xfe6b};
+        {low = 0xfeff, high = 0xfeff};
+        {low = 0xff01, high = 0xff20};
+        {low = 0xff3b, high = 0xff40};
+        {low = 0xff5b, high = 0xff65};
+        {low = 0xff70, high = 0xff70};
+        {low = 0xff9e, high = 0xff9f};
+        {low = 0xffe0, high = 0xffe6};
+        {low = 0xffe8, high = 0xffee};
+        {low = 0xfff9, high = 0xfffd};
+        {low = 0x10100, high = 0x10102};
+        {low = 0x10107, high = 0x10133};
+        {low = 0x10137, high = 0x1013f};
+        {low = 0x10190, high = 0x1019b};
+        {low = 0x101d0, high = 0x101fc};
+        {low = 0x102e1, high = 0x102fb};
+        {low = 0x16fe2, high = 0x16fe3};
+        {low = 0x1bca0, high = 0x1bca3};
+        {low = 0x1d000, high = 0x1d0f5};
+        {low = 0x1d100, high = 0x1d126};
+        {low = 0x1d129, high = 0x1d166};
+        {low = 0x1d16a, high = 0x1d17a};
+        {low = 0x1d183, high = 0x1d184};
+        {low = 0x1d18c, high = 0x1d1a9};
+        {low = 0x1d1ae, high = 0x1d1e8};
+        {low = 0x1d2e0, high = 0x1d2f3};
+        {low = 0x1d300, high = 0x1d356};
+        {low = 0x1d360, high = 0x1d378};
+        {low = 0x1d400, high = 0x1d454};
+        {low = 0x1d456, high = 0x1d49c};
+        {low = 0x1d49e, high = 0x1d49f};
+        {low = 0x1d4a2, high = 0x1d4a2};
+        {low = 0x1d4a5, high = 0x1d4a6};
+        {low = 0x1d4a9, high = 0x1d4ac};
+        {low = 0x1d4ae, high = 0x1d4b9};
+        {low = 0x1d4bb, high = 0x1d4bb};
+        {low = 0x1d4bd, high = 0x1d4c3};
+        {low = 0x1d4c5, high = 0x1d505};
+        {low = 0x1d507, high = 0x1d50a};
+        {low = 0x1d50d, high = 0x1d514};
+        {low = 0x1d516, high = 0x1d51c};
+        {low = 0x1d51e, high = 0x1d539};
+        {low = 0x1d53b, high = 0x1d53e};
+        {low = 0x1d540, high = 0x1d544};
+        {low = 0x1d546, high = 0x1d546};
+        {low = 0x1d54a, high = 0x1d550};
+        {low = 0x1d552, high = 0x1d6a5};
+        {low = 0x1d6a8, high = 0x1d7cb};
+        {low = 0x1d7ce, high = 0x1d7ff};
+        {low = 0x1ec71, high = 0x1ecb4};
+        {low = 0x1ed01, high = 0x1ed3d};
+        {low = 0x1f000, high = 0x1f02b};
+        {low = 0x1f030, high = 0x1f093};
+        {low = 0x1f0a0, high = 0x1f0ae};
+        {low = 0x1f0b1, high = 0x1f0bf};
+        {low = 0x1f0c1, high = 0x1f0cf};
+        {low = 0x1f0d1, high = 0x1f0f5};
+        {low = 0x1f100, high = 0x1f10c};
+        {low = 0x1f110, high = 0x1f16c};
+        {low = 0x1f170, high = 0x1f1ac};
+        {low = 0x1f1e6, high = 0x1f1ff};
+        {low = 0x1f201, high = 0x1f202};
+        {low = 0x1f210, high = 0x1f23b};
+        {low = 0x1f240, high = 0x1f248};
+        {low = 0x1f250, high = 0x1f251};
+        {low = 0x1f260, high = 0x1f265};
+        {low = 0x1f300, high = 0x1f6d5};
+        {low = 0x1f6e0, high = 0x1f6ec};
+        {low = 0x1f6f0, high = 0x1f6fa};
+        {low = 0x1f700, high = 0x1f773};
+        {low = 0x1f780, high = 0x1f7d8};
+        {low = 0x1f7e0, high = 0x1f7eb};
+        {low = 0x1f800, high = 0x1f80b};
+        {low = 0x1f810, high = 0x1f847};
+        {low = 0x1f850, high = 0x1f859};
+        {low = 0x1f860, high = 0x1f887};
+        {low = 0x1f890, high = 0x1f8ad};
+        {low = 0x1f900, high = 0x1f90b};
+        {low = 0x1f90d, high = 0x1f971};
+        {low = 0x1f973, high = 0x1f976};
+        {low = 0x1f97a, high = 0x1f9a2};
+        {low = 0x1f9a5, high = 0x1f9aa};
+        {low = 0x1f9ae, high = 0x1f9ca};
+        {low = 0x1f9cd, high = 0x1fa53};
+        {low = 0x1fa60, high = 0x1fa6d};
+        {low = 0x1fa70, high = 0x1fa73};
+        {low = 0x1fa78, high = 0x1fa7a};
+        {low = 0x1fa80, high = 0x1fa82};
+        {low = 0x1fa90, high = 0x1fa95};
+        {low = 0xe0001, high = 0xe0001};
+        {low = 0xe0020, high = 0xe007f};
+    };
+};
+Coptic = {totalCodePoints = 137, 
+    ranges = {
+        {low = 0x03e2, high = 0x03ef};
+        {low = 0x2c80, high = 0x2cf3};
+        {low = 0x2cf9, high = 0x2cff};
+    };
+};
+Cuneiform = {totalCodePoints = 1234, 
+    ranges = {
+        {low = 0x12000, high = 0x12399};
+        {low = 0x12400, high = 0x1246e};
+        {low = 0x12470, high = 0x12474};
+        {low = 0x12480, high = 0x12543};
+    };
+};
+Cypriot = {totalCodePoints = 55, 
+    ranges = {
+        {low = 0x10800, high = 0x10805};
+        {low = 0x10808, high = 0x10808};
+        {low = 0x1080a, high = 0x10835};
+        {low = 0x10837, high = 0x10838};
+        {low = 0x1083c, high = 0x1083c};
+        {low = 0x1083f, high = 0x1083f};
+    };
+};
+Cyrillic = {totalCodePoints = 443, 
+    ranges = {
+        {low = 0x0400, high = 0x0484};
+        {low = 0x0487, high = 0x052f};
+        {low = 0x1c80, high = 0x1c88};
+        {low = 0x1d2b, high = 0x1d2b};
+        {low = 0x1d78, high = 0x1d78};
+        {low = 0x2de0, high = 0x2dff};
+        {low = 0xa640, high = 0xa69f};
+        {low = 0xfe2e, high = 0xfe2f};
+    };
+};
+Deseret = {totalCodePoints = 80, 
+    ranges = {
+        {low = 0x10400, high = 0x1044f};
+    };
+};
+Devanagari = {totalCodePoints = 154, 
+    ranges = {
+        {low = 0x0900, high = 0x0950};
+        {low = 0x0955, high = 0x0963};
+        {low = 0x0966, high = 0x097f};
+        {low = 0xa8e0, high = 0xa8ff};
+    };
+};
+Dogra = {totalCodePoints = 60, 
+    ranges = {
+        {low = 0x11800, high = 0x1183b};
+    };
+};
+Duployan = {totalCodePoints = 143, 
+    ranges = {
+        {low = 0x1bc00, high = 0x1bc6a};
+        {low = 0x1bc70, high = 0x1bc7c};
+        {low = 0x1bc80, high = 0x1bc88};
+        {low = 0x1bc90, high = 0x1bc99};
+        {low = 0x1bc9c, high = 0x1bc9f};
+    };
+};
+Egyptian = {totalCodePoints = 1080, 
+    ranges = {
+        {low = 0x13000, high = 0x1342e};
+        {low = 0x13430, high = 0x13438};
+    };
+};
+Elbasan = {totalCodePoints = 40, 
+    ranges = {
+        {low = 0x10500, high = 0x10527};
+    };
+};
+Elymaic = {totalCodePoints = 23, 
+    ranges = {
+        {low = 0x10fe0, high = 0x10ff6};
+    };
+};
+Ethiopic = {totalCodePoints = 495, 
+    ranges = {
+        {low = 0x1200, high = 0x1248};
+        {low = 0x124a, high = 0x124d};
+        {low = 0x1250, high = 0x1256};
+        {low = 0x1258, high = 0x1258};
+        {low = 0x125a, high = 0x125d};
+        {low = 0x1260, high = 0x1288};
+        {low = 0x128a, high = 0x128d};
+        {low = 0x1290, high = 0x12b0};
+        {low = 0x12b2, high = 0x12b5};
+        {low = 0x12b8, high = 0x12be};
+        {low = 0x12c0, high = 0x12c0};
+        {low = 0x12c2, high = 0x12c5};
+        {low = 0x12c8, high = 0x12d6};
+        {low = 0x12d8, high = 0x1310};
+        {low = 0x1312, high = 0x1315};
+        {low = 0x1318, high = 0x135a};
+        {low = 0x135d, high = 0x137c};
+        {low = 0x1380, high = 0x1399};
+        {low = 0x2d80, high = 0x2d96};
+        {low = 0x2da0, high = 0x2da6};
+        {low = 0x2da8, high = 0x2dae};
+        {low = 0x2db0, high = 0x2db6};
+        {low = 0x2db8, high = 0x2dbe};
+        {low = 0x2dc0, high = 0x2dc6};
+        {low = 0x2dc8, high = 0x2dce};
+        {low = 0x2dd0, high = 0x2dd6};
+        {low = 0x2dd8, high = 0x2dde};
+        {low = 0xab01, high = 0xab06};
+        {low = 0xab09, high = 0xab0e};
+        {low = 0xab11, high = 0xab16};
+        {low = 0xab20, high = 0xab26};
+        {low = 0xab28, high = 0xab2e};
+    };
+};
+Georgian = {totalCodePoints = 173, 
+    ranges = {
+        {low = 0x10a0, high = 0x10c5};
+        {low = 0x10c7, high = 0x10c7};
+        {low = 0x10cd, high = 0x10cd};
+        {low = 0x10d0, high = 0x10fa};
+        {low = 0x10fc, high = 0x10ff};
+        {low = 0x1c90, high = 0x1cba};
+        {low = 0x1cbd, high = 0x1cbf};
+        {low = 0x2d00, high = 0x2d25};
+        {low = 0x2d27, high = 0x2d27};
+        {low = 0x2d2d, high = 0x2d2d};
+    };
+};
+Glagolitic = {totalCodePoints = 132, 
+    ranges = {
+        {low = 0x2c00, high = 0x2c2e};
+        {low = 0x2c30, high = 0x2c5e};
+        {low = 0x1e000, high = 0x1e006};
+        {low = 0x1e008, high = 0x1e018};
+        {low = 0x1e01b, high = 0x1e021};
+        {low = 0x1e023, high = 0x1e024};
+        {low = 0x1e026, high = 0x1e02a};
+    };
+};
+Gothic = {totalCodePoints = 27, 
+    ranges = {
+        {low = 0x10330, high = 0x1034a};
+    };
+};
+Grantha = {totalCodePoints = 85, 
+    ranges = {
+        {low = 0x11300, high = 0x11303};
+        {low = 0x11305, high = 0x1130c};
+        {low = 0x1130f, high = 0x11310};
+        {low = 0x11313, high = 0x11328};
+        {low = 0x1132a, high = 0x11330};
+        {low = 0x11332, high = 0x11333};
+        {low = 0x11335, high = 0x11339};
+        {low = 0x1133c, high = 0x11344};
+        {low = 0x11347, high = 0x11348};
+        {low = 0x1134b, high = 0x1134d};
+        {low = 0x11350, high = 0x11350};
+        {low = 0x11357, high = 0x11357};
+        {low = 0x1135d, high = 0x11363};
+        {low = 0x11366, high = 0x1136c};
+        {low = 0x11370, high = 0x11374};
+    };
+};
+Greek = {totalCodePoints = 518, 
+    ranges = {
+        {low = 0x0370, high = 0x0373};
+        {low = 0x0375, high = 0x0377};
+        {low = 0x037a, high = 0x037d};
+        {low = 0x037f, high = 0x037f};
+        {low = 0x0384, high = 0x0384};
+        {low = 0x0386, high = 0x0386};
+        {low = 0x0388, high = 0x038a};
+        {low = 0x038c, high = 0x038c};
+        {low = 0x038e, high = 0x03a1};
+        {low = 0x03a3, high = 0x03e1};
+        {low = 0x03f0, high = 0x03ff};
+        {low = 0x1d26, high = 0x1d2a};
+        {low = 0x1d5d, high = 0x1d61};
+        {low = 0x1d66, high = 0x1d6a};
+        {low = 0x1dbf, high = 0x1dbf};
+        {low = 0x1f00, high = 0x1f15};
+        {low = 0x1f18, high = 0x1f1d};
+        {low = 0x1f20, high = 0x1f45};
+        {low = 0x1f48, high = 0x1f4d};
+        {low = 0x1f50, high = 0x1f57};
+        {low = 0x1f59, high = 0x1f59};
+        {low = 0x1f5b, high = 0x1f5b};
+        {low = 0x1f5d, high = 0x1f5d};
+        {low = 0x1f5f, high = 0x1f7d};
+        {low = 0x1f80, high = 0x1fb4};
+        {low = 0x1fb6, high = 0x1fc4};
+        {low = 0x1fc6, high = 0x1fd3};
+        {low = 0x1fd6, high = 0x1fdb};
+        {low = 0x1fdd, high = 0x1fef};
+        {low = 0x1ff2, high = 0x1ff4};
+        {low = 0x1ff6, high = 0x1ffe};
+        {low = 0x2126, high = 0x2126};
+        {low = 0xab65, high = 0xab65};
+        {low = 0x10140, high = 0x1018e};
+        {low = 0x101a0, high = 0x101a0};
+        {low = 0x1d200, high = 0x1d245};
+    };
+};
+Gujarati = {totalCodePoints = 91, 
+    ranges = {
+        {low = 0x0a81, high = 0x0a83};
+        {low = 0x0a85, high = 0x0a8d};
+        {low = 0x0a8f, high = 0x0a91};
+        {low = 0x0a93, high = 0x0aa8};
+        {low = 0x0aaa, high = 0x0ab0};
+        {low = 0x0ab2, high = 0x0ab3};
+        {low = 0x0ab5, high = 0x0ab9};
+        {low = 0x0abc, high = 0x0ac5};
+        {low = 0x0ac7, high = 0x0ac9};
+        {low = 0x0acb, high = 0x0acd};
+        {low = 0x0ad0, high = 0x0ad0};
+        {low = 0x0ae0, high = 0x0ae3};
+        {low = 0x0ae6, high = 0x0af1};
+        {low = 0x0af9, high = 0x0aff};
+    };
+};
+Gunjala = {totalCodePoints = 63, 
+    ranges = {
+        {low = 0x11d60, high = 0x11d65};
+        {low = 0x11d67, high = 0x11d68};
+        {low = 0x11d6a, high = 0x11d8e};
+        {low = 0x11d90, high = 0x11d91};
+        {low = 0x11d93, high = 0x11d98};
+        {low = 0x11da0, high = 0x11da9};
+    };
+};
+Gurmukhi = {totalCodePoints = 80, 
+    ranges = {
+        {low = 0x0a01, high = 0x0a03};
+        {low = 0x0a05, high = 0x0a0a};
+        {low = 0x0a0f, high = 0x0a10};
+        {low = 0x0a13, high = 0x0a28};
+        {low = 0x0a2a, high = 0x0a30};
+        {low = 0x0a32, high = 0x0a33};
+        {low = 0x0a35, high = 0x0a36};
+        {low = 0x0a38, high = 0x0a39};
+        {low = 0x0a3c, high = 0x0a3c};
+        {low = 0x0a3e, high = 0x0a42};
+        {low = 0x0a47, high = 0x0a48};
+        {low = 0x0a4b, high = 0x0a4d};
+        {low = 0x0a51, high = 0x0a51};
+        {low = 0x0a59, high = 0x0a5c};
+        {low = 0x0a5e, high = 0x0a5e};
+        {low = 0x0a66, high = 0x0a76};
+    };
+};
+Han = {totalCodePoints = 89233, 
+    ranges = {
+        {low = 0x2e80, high = 0x2e99};
+        {low = 0x2e9b, high = 0x2ef3};
+        {low = 0x2f00, high = 0x2fd5};
+        {low = 0x3005, high = 0x3005};
+        {low = 0x3007, high = 0x3007};
+        {low = 0x3021, high = 0x3029};
+        {low = 0x3038, high = 0x303b};
+        {low = 0x3400, high = 0x4db5};
+        {low = 0x4e00, high = 0x9fef};
+        {low = 0xf900, high = 0xfa6d};
+        {low = 0xfa70, high = 0xfad9};
+        {low = 0x20000, high = 0x2a6d6};
+        {low = 0x2a700, high = 0x2b734};
+        {low = 0x2b740, high = 0x2b81d};
+        {low = 0x2b820, high = 0x2cea1};
+        {low = 0x2ceb0, high = 0x2ebe0};
+        {low = 0x2f800, high = 0x2fa1d};
+    };
+};
+Hangul = {totalCodePoints = 11739, 
+    ranges = {
+        {low = 0x1100, high = 0x11ff};
+        {low = 0x302e, high = 0x302f};
+        {low = 0x3131, high = 0x318e};
+        {low = 0x3200, high = 0x321e};
+        {low = 0x3260, high = 0x327e};
+        {low = 0xa960, high = 0xa97c};
+        {low = 0xac00, high = 0xd7a3};
+        {low = 0xd7b0, high = 0xd7c6};
+        {low = 0xd7cb, high = 0xd7fb};
+        {low = 0xffa0, high = 0xffbe};
+        {low = 0xffc2, high = 0xffc7};
+        {low = 0xffca, high = 0xffcf};
+        {low = 0xffd2, high = 0xffd7};
+        {low = 0xffda, high = 0xffdc};
+    };
+};
+Hanifi = {totalCodePoints = 50, 
+    ranges = {
+        {low = 0x10d00, high = 0x10d27};
+        {low = 0x10d30, high = 0x10d39};
+    };
+};
+Hanunoo = {totalCodePoints = 21, 
+    ranges = {
+        {low = 0x1720, high = 0x1734};
+    };
+};
+Hatran = {totalCodePoints = 26, 
+    ranges = {
+        {low = 0x108e0, high = 0x108f2};
+        {low = 0x108f4, high = 0x108f5};
+        {low = 0x108fb, high = 0x108ff};
+    };
+};
+Hebrew = {totalCodePoints = 134, 
+    ranges = {
+        {low = 0x0591, high = 0x05c7};
+        {low = 0x05d0, high = 0x05ea};
+        {low = 0x05ef, high = 0x05f4};
+        {low = 0xfb1d, high = 0xfb36};
+        {low = 0xfb38, high = 0xfb3c};
+        {low = 0xfb3e, high = 0xfb3e};
+        {low = 0xfb40, high = 0xfb41};
+        {low = 0xfb43, high = 0xfb44};
+        {low = 0xfb46, high = 0xfb4f};
+    };
+};
+Hiragana = {totalCodePoints = 379, 
+    ranges = {
+        {low = 0x3041, high = 0x3096};
+        {low = 0x309d, high = 0x309f};
+        {low = 0x1b001, high = 0x1b11e};
+        {low = 0x1b150, high = 0x1b152};
+        {low = 0x1f200, high = 0x1f200};
+    };
+};
+Imperial = {totalCodePoints = 31, 
+    ranges = {
+        {low = 0x10840, high = 0x10855};
+        {low = 0x10857, high = 0x1085f};
+    };
+};
+Inherited = {totalCodePoints = 571, 
+    ranges = {
+        {low = 0x0300, high = 0x036f};
+        {low = 0x0485, high = 0x0486};
+        {low = 0x064b, high = 0x0655};
+        {low = 0x0670, high = 0x0670};
+        {low = 0x0951, high = 0x0954};
+        {low = 0x1ab0, high = 0x1abe};
+        {low = 0x1cd0, high = 0x1cd2};
+        {low = 0x1cd4, high = 0x1ce0};
+        {low = 0x1ce2, high = 0x1ce8};
+        {low = 0x1ced, high = 0x1ced};
+        {low = 0x1cf4, high = 0x1cf4};
+        {low = 0x1cf8, high = 0x1cf9};
+        {low = 0x1dc0, high = 0x1df9};
+        {low = 0x1dfb, high = 0x1dff};
+        {low = 0x200c, high = 0x200d};
+        {low = 0x20d0, high = 0x20f0};
+        {low = 0x302a, high = 0x302d};
+        {low = 0x3099, high = 0x309a};
+        {low = 0xfe00, high = 0xfe0f};
+        {low = 0xfe20, high = 0xfe2d};
+        {low = 0x101fd, high = 0x101fd};
+        {low = 0x102e0, high = 0x102e0};
+        {low = 0x1133b, high = 0x1133b};
+        {low = 0x1d167, high = 0x1d169};
+        {low = 0x1d17b, high = 0x1d182};
+        {low = 0x1d185, high = 0x1d18b};
+        {low = 0x1d1aa, high = 0x1d1ad};
+        {low = 0xe0100, high = 0xe01ef};
+    };
+};
+Inscriptional = {totalCodePoints = 57, 
+    ranges = {
+        {low = 0x10b40, high = 0x10b55};
+        {low = 0x10b58, high = 0x10b72};
+        {low = 0x10b78, high = 0x10b7f};
+    };
+};
+Javanese = {totalCodePoints = 90, 
+    ranges = {
+        {low = 0xa980, high = 0xa9cd};
+        {low = 0xa9d0, high = 0xa9d9};
+        {low = 0xa9de, high = 0xa9df};
+    };
+};
+Kaithi = {totalCodePoints = 67, 
+    ranges = {
+        {low = 0x11080, high = 0x110c1};
+        {low = 0x110cd, high = 0x110cd};
+    };
+};
+Kannada = {totalCodePoints = 89, 
+    ranges = {
+        {low = 0x0c80, high = 0x0c8c};
+        {low = 0x0c8e, high = 0x0c90};
+        {low = 0x0c92, high = 0x0ca8};
+        {low = 0x0caa, high = 0x0cb3};
+        {low = 0x0cb5, high = 0x0cb9};
+        {low = 0x0cbc, high = 0x0cc4};
+        {low = 0x0cc6, high = 0x0cc8};
+        {low = 0x0cca, high = 0x0ccd};
+        {low = 0x0cd5, high = 0x0cd6};
+        {low = 0x0cde, high = 0x0cde};
+        {low = 0x0ce0, high = 0x0ce3};
+        {low = 0x0ce6, high = 0x0cef};
+        {low = 0x0cf1, high = 0x0cf2};
+    };
+};
+Katakana = {totalCodePoints = 304, 
+    ranges = {
+        {low = 0x30a1, high = 0x30fa};
+        {low = 0x30fd, high = 0x30ff};
+        {low = 0x31f0, high = 0x31ff};
+        {low = 0x32d0, high = 0x32fe};
+        {low = 0x3300, high = 0x3357};
+        {low = 0xff66, high = 0xff6f};
+        {low = 0xff71, high = 0xff9d};
+        {low = 0x1b000, high = 0x1b000};
+        {low = 0x1b164, high = 0x1b167};
+    };
+};
+Kayah = {totalCodePoints = 47, 
+    ranges = {
+        {low = 0xa900, high = 0xa92d};
+        {low = 0xa92f, high = 0xa92f};
+    };
+};
+Kharoshthi = {totalCodePoints = 68, 
+    ranges = {
+        {low = 0x10a00, high = 0x10a03};
+        {low = 0x10a05, high = 0x10a06};
+        {low = 0x10a0c, high = 0x10a13};
+        {low = 0x10a15, high = 0x10a17};
+        {low = 0x10a19, high = 0x10a35};
+        {low = 0x10a38, high = 0x10a3a};
+        {low = 0x10a3f, high = 0x10a48};
+        {low = 0x10a50, high = 0x10a58};
+    };
+};
+Khmer = {totalCodePoints = 146, 
+    ranges = {
+        {low = 0x1780, high = 0x17dd};
+        {low = 0x17e0, high = 0x17e9};
+        {low = 0x17f0, high = 0x17f9};
+        {low = 0x19e0, high = 0x19ff};
+    };
+};
+Khojki = {totalCodePoints = 62, 
+    ranges = {
+        {low = 0x11200, high = 0x11211};
+        {low = 0x11213, high = 0x1123e};
+    };
+};
+Khudawadi = {totalCodePoints = 69, 
+    ranges = {
+        {low = 0x112b0, high = 0x112ea};
+        {low = 0x112f0, high = 0x112f9};
+    };
+};
+Lao = {totalCodePoints = 82, 
+    ranges = {
+        {low = 0x0e81, high = 0x0e82};
+        {low = 0x0e84, high = 0x0e84};
+        {low = 0x0e86, high = 0x0e8a};
+        {low = 0x0e8c, high = 0x0ea3};
+        {low = 0x0ea5, high = 0x0ea5};
+        {low = 0x0ea7, high = 0x0ebd};
+        {low = 0x0ec0, high = 0x0ec4};
+        {low = 0x0ec6, high = 0x0ec6};
+        {low = 0x0ec8, high = 0x0ecd};
+        {low = 0x0ed0, high = 0x0ed9};
+        {low = 0x0edc, high = 0x0edf};
+    };
+};
+Latin = {totalCodePoints = 1366, 
+    ranges = {
+        {low = 0x0041, high = 0x005a};
+        {low = 0x0061, high = 0x007a};
+        {low = 0x00aa, high = 0x00aa};
+        {low = 0x00ba, high = 0x00ba};
+        {low = 0x00c0, high = 0x00d6};
+        {low = 0x00d8, high = 0x00f6};
+        {low = 0x00f8, high = 0x02b8};
+        {low = 0x02e0, high = 0x02e4};
+        {low = 0x1d00, high = 0x1d25};
+        {low = 0x1d2c, high = 0x1d5c};
+        {low = 0x1d62, high = 0x1d65};
+        {low = 0x1d6b, high = 0x1d77};
+        {low = 0x1d79, high = 0x1dbe};
+        {low = 0x1e00, high = 0x1eff};
+        {low = 0x2071, high = 0x2071};
+        {low = 0x207f, high = 0x207f};
+        {low = 0x2090, high = 0x209c};
+        {low = 0x212a, high = 0x212b};
+        {low = 0x2132, high = 0x2132};
+        {low = 0x214e, high = 0x214e};
+        {low = 0x2160, high = 0x2188};
+        {low = 0x2c60, high = 0x2c7f};
+        {low = 0xa722, high = 0xa787};
+        {low = 0xa78b, high = 0xa7bf};
+        {low = 0xa7c2, high = 0xa7c6};
+        {low = 0xa7f7, high = 0xa7ff};
+        {low = 0xab30, high = 0xab5a};
+        {low = 0xab5c, high = 0xab64};
+        {low = 0xab66, high = 0xab67};
+        {low = 0xfb00, high = 0xfb06};
+        {low = 0xff21, high = 0xff3a};
+        {low = 0xff41, high = 0xff5a};
+    };
+};
+Lepcha = {totalCodePoints = 74, 
+    ranges = {
+        {low = 0x1c00, high = 0x1c37};
+        {low = 0x1c3b, high = 0x1c49};
+        {low = 0x1c4d, high = 0x1c4f};
+    };
+};
+Limbu = {totalCodePoints = 68, 
+    ranges = {
+        {low = 0x1900, high = 0x191e};
+        {low = 0x1920, high = 0x192b};
+        {low = 0x1930, high = 0x193b};
+        {low = 0x1940, high = 0x1940};
+        {low = 0x1944, high = 0x194f};
+    };
+};
+Linear = {totalCodePoints = 552, 
+    ranges = {
+        {low = 0x10000, high = 0x1000b};
+        {low = 0x1000d, high = 0x10026};
+        {low = 0x10028, high = 0x1003a};
+        {low = 0x1003c, high = 0x1003d};
+        {low = 0x1003f, high = 0x1004d};
+        {low = 0x10050, high = 0x1005d};
+        {low = 0x10080, high = 0x100fa};
+        {low = 0x10600, high = 0x10736};
+        {low = 0x10740, high = 0x10755};
+        {low = 0x10760, high = 0x10767};
+    };
+};
+Lisu = {totalCodePoints = 48, 
+    ranges = {
+        {low = 0xa4d0, high = 0xa4ff};
+    };
+};
+Lycian = {totalCodePoints = 29, 
+    ranges = {
+        {low = 0x10280, high = 0x1029c};
+    };
+};
+Lydian = {totalCodePoints = 27, 
+    ranges = {
+        {low = 0x10920, high = 0x10939};
+        {low = 0x1093f, high = 0x1093f};
+    };
+};
+Mahajani = {totalCodePoints = 39, 
+    ranges = {
+        {low = 0x11150, high = 0x11176};
+    };
+};
+Makasar = {totalCodePoints = 25, 
+    ranges = {
+        {low = 0x11ee0, high = 0x11ef8};
+    };
+};
+Malayalam = {totalCodePoints = 117, 
+    ranges = {
+        {low = 0x0d00, high = 0x0d03};
+        {low = 0x0d05, high = 0x0d0c};
+        {low = 0x0d0e, high = 0x0d10};
+        {low = 0x0d12, high = 0x0d44};
+        {low = 0x0d46, high = 0x0d48};
+        {low = 0x0d4a, high = 0x0d4f};
+        {low = 0x0d54, high = 0x0d63};
+        {low = 0x0d66, high = 0x0d7f};
+    };
+};
+Mandaic = {totalCodePoints = 29, 
+    ranges = {
+        {low = 0x0840, high = 0x085b};
+        {low = 0x085e, high = 0x085e};
+    };
+};
+Manichaean = {totalCodePoints = 51, 
+    ranges = {
+        {low = 0x10ac0, high = 0x10ae6};
+        {low = 0x10aeb, high = 0x10af6};
+    };
+};
+Marchen = {totalCodePoints = 68, 
+    ranges = {
+        {low = 0x11c70, high = 0x11c8f};
+        {low = 0x11c92, high = 0x11ca7};
+        {low = 0x11ca9, high = 0x11cb6};
+    };
+};
+Masaram = {totalCodePoints = 75, 
+    ranges = {
+        {low = 0x11d00, high = 0x11d06};
+        {low = 0x11d08, high = 0x11d09};
+        {low = 0x11d0b, high = 0x11d36};
+        {low = 0x11d3a, high = 0x11d3a};
+        {low = 0x11d3c, high = 0x11d3d};
+        {low = 0x11d3f, high = 0x11d47};
+        {low = 0x11d50, high = 0x11d59};
+    };
+};
+Medefaidrin = {totalCodePoints = 91, 
+    ranges = {
+        {low = 0x16e40, high = 0x16e9a};
+    };
+};
+Meetei = {totalCodePoints = 79, 
+    ranges = {
+        {low = 0xaae0, high = 0xaaf6};
+        {low = 0xabc0, high = 0xabed};
+        {low = 0xabf0, high = 0xabf9};
+    };
+};
+Mende = {totalCodePoints = 213, 
+    ranges = {
+        {low = 0x1e800, high = 0x1e8c4};
+        {low = 0x1e8c7, high = 0x1e8d6};
+    };
+};
+Meroitic = {totalCodePoints = 122, 
+    ranges = {
+        {low = 0x109a0, high = 0x109b7};
+        {low = 0x109bc, high = 0x109cf};
+        {low = 0x109d2, high = 0x109ff};
+        {low = 0x10980, high = 0x1099f};
+    };
+};
+Miao = {totalCodePoints = 149, 
+    ranges = {
+        {low = 0x16f00, high = 0x16f4a};
+        {low = 0x16f4f, high = 0x16f87};
+        {low = 0x16f8f, high = 0x16f9f};
+    };
+};
+Modi = {totalCodePoints = 79, 
+    ranges = {
+        {low = 0x11600, high = 0x11644};
+        {low = 0x11650, high = 0x11659};
+    };
+};
+Mongolian = {totalCodePoints = 167, 
+    ranges = {
+        {low = 0x1800, high = 0x1801};
+        {low = 0x1804, high = 0x1804};
+        {low = 0x1806, high = 0x180e};
+        {low = 0x1810, high = 0x1819};
+        {low = 0x1820, high = 0x1878};
+        {low = 0x1880, high = 0x18aa};
+        {low = 0x11660, high = 0x1166c};
+    };
+};
+Mro = {totalCodePoints = 43, 
+    ranges = {
+        {low = 0x16a40, high = 0x16a5e};
+        {low = 0x16a60, high = 0x16a69};
+        {low = 0x16a6e, high = 0x16a6f};
+    };
+};
+Multani = {totalCodePoints = 38, 
+    ranges = {
+        {low = 0x11280, high = 0x11286};
+        {low = 0x11288, high = 0x11288};
+        {low = 0x1128a, high = 0x1128d};
+        {low = 0x1128f, high = 0x1129d};
+        {low = 0x1129f, high = 0x112a9};
+    };
+};
+Myanmar = {totalCodePoints = 223, 
+    ranges = {
+        {low = 0x1000, high = 0x109f};
+        {low = 0xa9e0, high = 0xa9fe};
+        {low = 0xaa60, high = 0xaa7f};
+    };
+};
+Nabataean = {totalCodePoints = 40, 
+    ranges = {
+        {low = 0x10880, high = 0x1089e};
+        {low = 0x108a7, high = 0x108af};
+    };
+};
+Nandinagari = {totalCodePoints = 65, 
+    ranges = {
+        {low = 0x119a0, high = 0x119a7};
+        {low = 0x119aa, high = 0x119d7};
+        {low = 0x119da, high = 0x119e4};
+    };
+};
+New = {totalCodePoints = 83, 
+    ranges = {
+        {low = 0x1980, high = 0x19ab};
+        {low = 0x19b0, high = 0x19c9};
+        {low = 0x19d0, high = 0x19da};
+        {low = 0x19de, high = 0x19df};
+    };
+};
+Newa = {totalCodePoints = 94, 
+    ranges = {
+        {low = 0x11400, high = 0x11459};
+        {low = 0x1145b, high = 0x1145b};
+        {low = 0x1145d, high = 0x1145f};
+    };
+};
+Nko = {totalCodePoints = 62, 
+    ranges = {
+        {low = 0x07c0, high = 0x07fa};
+        {low = 0x07fd, high = 0x07ff};
+    };
+};
+Nushu = {totalCodePoints = 397, 
+    ranges = {
+        {low = 0x16fe1, high = 0x16fe1};
+        {low = 0x1b170, high = 0x1b2fb};
+    };
+};
+Nyiakeng = {totalCodePoints = 71, 
+    ranges = {
+        {low = 0x1e100, high = 0x1e12c};
+        {low = 0x1e130, high = 0x1e13d};
+        {low = 0x1e140, high = 0x1e149};
+        {low = 0x1e14e, high = 0x1e14f};
+    };
+};
+Ogham = {totalCodePoints = 29, 
+    ranges = {
+        {low = 0x1680, high = 0x169c};
+    };
+};
+Ol = {totalCodePoints = 48, 
+    ranges = {
+        {low = 0x1c50, high = 0x1c7f};
+    };
+};
+Old = {totalCodePoints = 417, 
+    ranges = {
+        {low = 0x10300, high = 0x10323};
+        {low = 0x1032d, high = 0x1032f};
+        {low = 0x103a0, high = 0x103c3};
+        {low = 0x103c8, high = 0x103d5};
+        {low = 0x10a60, high = 0x10a7f};
+        {low = 0x10c00, high = 0x10c48};
+        {low = 0x10a80, high = 0x10a9f};
+        {low = 0x10350, high = 0x1037a};
+        {low = 0x10c80, high = 0x10cb2};
+        {low = 0x10cc0, high = 0x10cf2};
+        {low = 0x10cfa, high = 0x10cff};
+        {low = 0x10f00, high = 0x10f27};
+    };
+};
+Oriya = {totalCodePoints = 90, 
+    ranges = {
+        {low = 0x0b01, high = 0x0b03};
+        {low = 0x0b05, high = 0x0b0c};
+        {low = 0x0b0f, high = 0x0b10};
+        {low = 0x0b13, high = 0x0b28};
+        {low = 0x0b2a, high = 0x0b30};
+        {low = 0x0b32, high = 0x0b33};
+        {low = 0x0b35, high = 0x0b39};
+        {low = 0x0b3c, high = 0x0b44};
+        {low = 0x0b47, high = 0x0b48};
+        {low = 0x0b4b, high = 0x0b4d};
+        {low = 0x0b56, high = 0x0b57};
+        {low = 0x0b5c, high = 0x0b5d};
+        {low = 0x0b5f, high = 0x0b63};
+        {low = 0x0b66, high = 0x0b77};
+    };
+};
+Osage = {totalCodePoints = 72, 
+    ranges = {
+        {low = 0x104b0, high = 0x104d3};
+        {low = 0x104d8, high = 0x104fb};
+    };
+};
+Osmanya = {totalCodePoints = 40, 
+    ranges = {
+        {low = 0x10480, high = 0x1049d};
+        {low = 0x104a0, high = 0x104a9};
+    };
+};
+Pahawh = {totalCodePoints = 127, 
+    ranges = {
+        {low = 0x16b00, high = 0x16b45};
+        {low = 0x16b50, high = 0x16b59};
+        {low = 0x16b5b, high = 0x16b61};
+        {low = 0x16b63, high = 0x16b77};
+        {low = 0x16b7d, high = 0x16b8f};
+    };
+};
+Palmyrene = {totalCodePoints = 32, 
+    ranges = {
+        {low = 0x10860, high = 0x1087f};
+    };
+};
+Pau = {totalCodePoints = 57, 
+    ranges = {
+        {low = 0x11ac0, high = 0x11af8};
+    };
+};
+Phags = {totalCodePoints = 56, 
+    ranges = {
+        {low = 0xa840, high = 0xa877};
+    };
+};
+Phoenician = {totalCodePoints = 29, 
+    ranges = {
+        {low = 0x10900, high = 0x1091b};
+        {low = 0x1091f, high = 0x1091f};
+    };
+};
+Psalter = {totalCodePoints = 29, 
+    ranges = {
+        {low = 0x10b80, high = 0x10b91};
+        {low = 0x10b99, high = 0x10b9c};
+        {low = 0x10ba9, high = 0x10baf};
+    };
+};
+Rejang = {totalCodePoints = 37, 
+    ranges = {
+        {low = 0xa930, high = 0xa953};
+        {low = 0xa95f, high = 0xa95f};
+    };
+};
+Runic = {totalCodePoints = 86, 
+    ranges = {
+        {low = 0x16a0, high = 0x16ea};
+        {low = 0x16ee, high = 0x16f8};
+    };
+};
+Samaritan = {totalCodePoints = 61, 
+    ranges = {
+        {low = 0x0800, high = 0x082d};
+        {low = 0x0830, high = 0x083e};
+    };
+};
+Saurashtra = {totalCodePoints = 82, 
+    ranges = {
+        {low = 0xa880, high = 0xa8c5};
+        {low = 0xa8ce, high = 0xa8d9};
+    };
+};
+Sharada = {totalCodePoints = 94, 
+    ranges = {
+        {low = 0x11180, high = 0x111cd};
+        {low = 0x111d0, high = 0x111df};
+    };
+};
+Shavian = {totalCodePoints = 48, 
+    ranges = {
+        {low = 0x10450, high = 0x1047f};
+    };
+};
+Siddham = {totalCodePoints = 92, 
+    ranges = {
+        {low = 0x11580, high = 0x115b5};
+        {low = 0x115b8, high = 0x115dd};
+    };
+};
+SignWriting = {totalCodePoints = 672, 
+    ranges = {
+        {low = 0x1d800, high = 0x1da8b};
+        {low = 0x1da9b, high = 0x1da9f};
+        {low = 0x1daa1, high = 0x1daaf};
+    };
+};
+Sinhala = {totalCodePoints = 110, 
+    ranges = {
+        {low = 0x0d82, high = 0x0d83};
+        {low = 0x0d85, high = 0x0d96};
+        {low = 0x0d9a, high = 0x0db1};
+        {low = 0x0db3, high = 0x0dbb};
+        {low = 0x0dbd, high = 0x0dbd};
+        {low = 0x0dc0, high = 0x0dc6};
+        {low = 0x0dca, high = 0x0dca};
+        {low = 0x0dcf, high = 0x0dd4};
+        {low = 0x0dd6, high = 0x0dd6};
+        {low = 0x0dd8, high = 0x0ddf};
+        {low = 0x0de6, high = 0x0def};
+        {low = 0x0df2, high = 0x0df4};
+        {low = 0x111e1, high = 0x111f4};
+    };
+};
+Sogdian = {totalCodePoints = 42, 
+    ranges = {
+        {low = 0x10f30, high = 0x10f59};
+    };
+};
+Sora = {totalCodePoints = 35, 
+    ranges = {
+        {low = 0x110d0, high = 0x110e8};
+        {low = 0x110f0, high = 0x110f9};
+    };
+};
+Soyombo = {totalCodePoints = 83, 
+    ranges = {
+        {low = 0x11a50, high = 0x11aa2};
+    };
+};
+Sundanese = {totalCodePoints = 72, 
+    ranges = {
+        {low = 0x1b80, high = 0x1bbf};
+        {low = 0x1cc0, high = 0x1cc7};
+    };
+};
+Syloti = {totalCodePoints = 44, 
+    ranges = {
+        {low = 0xa800, high = 0xa82b};
+    };
+};
+Syriac = {totalCodePoints = 88, 
+    ranges = {
+        {low = 0x0700, high = 0x070d};
+        {low = 0x070f, high = 0x074a};
+        {low = 0x074d, high = 0x074f};
+        {low = 0x0860, high = 0x086a};
+    };
+};
+Tagalog = {totalCodePoints = 20, 
+    ranges = {
+        {low = 0x1700, high = 0x170c};
+        {low = 0x170e, high = 0x1714};
+    };
+};
+Tagbanwa = {totalCodePoints = 18, 
+    ranges = {
+        {low = 0x1760, high = 0x176c};
+        {low = 0x176e, high = 0x1770};
+        {low = 0x1772, high = 0x1773};
+    };
+};
+Tai = {totalCodePoints = 234, 
+    ranges = {
+        {low = 0x1950, high = 0x196d};
+        {low = 0x1970, high = 0x1974};
+        {low = 0x1a20, high = 0x1a5e};
+        {low = 0x1a60, high = 0x1a7c};
+        {low = 0x1a7f, high = 0x1a89};
+        {low = 0x1a90, high = 0x1a99};
+        {low = 0x1aa0, high = 0x1aad};
+        {low = 0xaa80, high = 0xaac2};
+        {low = 0xaadb, high = 0xaadf};
+    };
+};
+Takri = {totalCodePoints = 67, 
+    ranges = {
+        {low = 0x11680, high = 0x116b8};
+        {low = 0x116c0, high = 0x116c9};
+    };
+};
+Tamil = {totalCodePoints = 123, 
+    ranges = {
+        {low = 0x0b82, high = 0x0b83};
+        {low = 0x0b85, high = 0x0b8a};
+        {low = 0x0b8e, high = 0x0b90};
+        {low = 0x0b92, high = 0x0b95};
+        {low = 0x0b99, high = 0x0b9a};
+        {low = 0x0b9c, high = 0x0b9c};
+        {low = 0x0b9e, high = 0x0b9f};
+        {low = 0x0ba3, high = 0x0ba4};
+        {low = 0x0ba8, high = 0x0baa};
+        {low = 0x0bae, high = 0x0bb9};
+        {low = 0x0bbe, high = 0x0bc2};
+        {low = 0x0bc6, high = 0x0bc8};
+        {low = 0x0bca, high = 0x0bcd};
+        {low = 0x0bd0, high = 0x0bd0};
+        {low = 0x0bd7, high = 0x0bd7};
+        {low = 0x0be6, high = 0x0bfa};
+        {low = 0x11fc0, high = 0x11ff1};
+        {low = 0x11fff, high = 0x11fff};
+    };
+};
+Tangut = {totalCodePoints = 6892, 
+    ranges = {
+        {low = 0x16fe0, high = 0x16fe0};
+        {low = 0x17000, high = 0x187f7};
+        {low = 0x18800, high = 0x18af2};
+    };
+};
+Telugu = {totalCodePoints = 98, 
+    ranges = {
+        {low = 0x0c00, high = 0x0c0c};
+        {low = 0x0c0e, high = 0x0c10};
+        {low = 0x0c12, high = 0x0c28};
+        {low = 0x0c2a, high = 0x0c39};
+        {low = 0x0c3d, high = 0x0c44};
+        {low = 0x0c46, high = 0x0c48};
+        {low = 0x0c4a, high = 0x0c4d};
+        {low = 0x0c55, high = 0x0c56};
+        {low = 0x0c58, high = 0x0c5a};
+        {low = 0x0c60, high = 0x0c63};
+        {low = 0x0c66, high = 0x0c6f};
+        {low = 0x0c77, high = 0x0c7f};
+    };
+};
+Thaana = {totalCodePoints = 50, 
+    ranges = {
+        {low = 0x0780, high = 0x07b1};
+    };
+};
+Thai = {totalCodePoints = 86, 
+    ranges = {
+        {low = 0x0e01, high = 0x0e3a};
+        {low = 0x0e40, high = 0x0e5b};
+    };
+};
+Tibetan = {totalCodePoints = 207, 
+    ranges = {
+        {low = 0x0f00, high = 0x0f47};
+        {low = 0x0f49, high = 0x0f6c};
+        {low = 0x0f71, high = 0x0f97};
+        {low = 0x0f99, high = 0x0fbc};
+        {low = 0x0fbe, high = 0x0fcc};
+        {low = 0x0fce, high = 0x0fd4};
+        {low = 0x0fd9, high = 0x0fda};
+    };
+};
+Tifinagh = {totalCodePoints = 59, 
+    ranges = {
+        {low = 0x2d30, high = 0x2d67};
+        {low = 0x2d6f, high = 0x2d70};
+        {low = 0x2d7f, high = 0x2d7f};
+    };
+};
+Tirhuta = {totalCodePoints = 82, 
+    ranges = {
+        {low = 0x11480, high = 0x114c7};
+        {low = 0x114d0, high = 0x114d9};
+    };
+};
+Ugaritic = {totalCodePoints = 31, 
+    ranges = {
+        {low = 0x10380, high = 0x1039d};
+        {low = 0x1039f, high = 0x1039f};
+    };
+};
+Vai = {totalCodePoints = 300, 
+    ranges = {
+        {low = 0xa500, high = 0xa62b};
+    };
+};
+Wancho = {totalCodePoints = 59, 
+    ranges = {
+        {low = 0x1e2c0, high = 0x1e2f9};
+        {low = 0x1e2ff, high = 0x1e2ff};
+    };
+};
+Warang = {totalCodePoints = 84, 
+    ranges = {
+        {low = 0x118a0, high = 0x118f2};
+        {low = 0x118ff, high = 0x118ff};
+    };
+};
+Yi = {totalCodePoints = 1220, 
+    ranges = {
+        {low = 0xa000, high = 0xa48c};
+        {low = 0xa490, high = 0xa4c6};
+    };
+};
+Zanabazar = {totalCodePoints = 72, 
+    ranges = {
+        {low = 0x11a00, high = 0x11a47};
+    };
+};
