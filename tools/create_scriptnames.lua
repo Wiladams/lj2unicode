@@ -6,52 +6,15 @@ local split = stringutil.split
 local tsplit = stringutil.tsplit
 local spairs = require("spairs")
 
-local function countRanges(ranges)
-    local count = 0;
-    for _,range in ipairs(ranges) do
-        count = count + range.high - range.low + 1;
-    end
+local utils = require("utils")
+local parseRange = utils.parseRange
+local combineRanges = utils.combineRanges
+local sumRanges = utils.sumRanges
 
-    return count
-end
 
--- Given list of ranges, combine them into
--- a smaller list of contiguous ranges
-local function combineRanges(ranges)
-    local newRanges = {}
-    local lastRange
 
-    for idx, range in ipairs(ranges) do
-        if lastRange then
-            if range.low == lastRange.high + 1 then
-                lastRange.high = range.high;
-            else
-                table.insert(newRanges, lastRange)
-                lastRange = range
-            end
-        else
-            lastRange = range;
-        end
-    end
-    table.insert(newRanges, lastRange)
 
-    return newRanges
-end
 
--- return low, high
--- or just low
--- or nil if numeric not found
-local function getRange(str)
-    local low, high = str:match("([0-9,a-f,A-F]+)%.%.([0-9,a-f,A-F]+)")
-
-    if low and high then
-        return tonumber(low, 16), tonumber(high, 16)
-    end
-
-    local low = tonumber(str:match("([0-9,a-f,A-F]+)"), 16)
-    return low, low
-
-end
 
 local function getScriptRanges()
     local names = {}
@@ -59,11 +22,12 @@ local function getScriptRanges()
     for line in io.lines(arg[1]) do 
         if not line:find("^#") and line ~= "" then
             local t = tsplit(line, ';')
+
+            local low, high, size = parseRange(t[1], 16)
+
             -- script name is in t[2], delimeter by first space
-            local low, high = getRange(t[1])
-            local size = high-low+1
             local scriptName = t[2]:match("([%a]+)")
---print(scriptName, low, high, size)
+
             if not names[scriptName] then
                 names[scriptName] = {}
                 names[scriptName].ranges = {}
@@ -76,7 +40,7 @@ local function getScriptRanges()
     -- combine all script ranges
     for scriptName, v in pairs(names) do
             v.ranges = combineRanges(v.ranges)
-            v.charCount = countRanges(v.ranges)
+            v.charCount = sumRanges(v.ranges)
     end
 
     return names;
